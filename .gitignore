@@ -1,0 +1,7 @@
+venv
+other
+dracula.txt
+frankenstein.txt
+wordcounts.db
+.idea
+__pycache__
